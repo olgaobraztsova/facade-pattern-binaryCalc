@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         BinOps bins = new BinOps();
-        //демонстрация
+        //РґРµРјРѕРЅСЃС‚СЂР°С†РёСЏ
 
         System.out.println(bins.mult("1010", "1010"));
 
